@@ -1,4 +1,4 @@
-## Dmitry Kizenkov
+## Dmitrii Kizenkov
 
 Backend and infrastructure engineer. I write Go services and run them —
 seven years of production infrastructure behind that: Linux, networking,
