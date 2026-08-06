@@ -1,16 +1,20 @@
-## Hi there 👋
+## Dmitry Kizenkov
 
-<!--
-**WizardOfMeh/WizardOfMeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Infrastructure engineer with 4 years of experience: Windows Server,
+Active Directory, Exchange, MikroTik, Linux. Currently learning Go and
+building backend services.
 
-Here are some ideas to get you started:
+Homelab on Proxmox and k3s — PostgreSQL, WireGuard, monitoring.
+My projects come from running it.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects
+
+**[inventory-api](https://github.com/WizardOfMeh/inventory-api)** — REST API over PostgreSQL.
+Keyset pagination instead of OFFSET: 104 ms vs 0.045 ms on 500k rows.
+Deployed to k3s. Go, Docker, Kubernetes.
+
+**[healthchecker](https://github.com/WizardOfMeh/healthchecker)** — Go daemon for TCP/HTTP
+availability checks with Telegram alerts.
+
+### Contact
+
