@@ -9,12 +9,11 @@ of needing them there, and both run there now.
 ### Projects
 
 **[inventory-api](https://github.com/WizardOfMeh/inventory-api)** — REST API over PostgreSQL.
-Keyset pagination instead of OFFSET: 104 ms → 0.045 ms on 500k rows.
 Runs on k3s. Go, Docker, Kubernetes.
 
 **[healthchecker](https://github.com/WizardOfMeh/healthchecker)** — monitoring daemon in Go.
 Concurrent TCP and HTTP checks across 9 nodes, Telegram alerts on state
-change. Running unattended since <месяц>.
+change.
 
 ### Now
 
