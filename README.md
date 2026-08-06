@@ -1,10 +1,10 @@
 ## Dmitry Kizenkov
 
-Infrastructure engineer with 4 years of experience: Windows Server,
-Active Directory, Exchange, MikroTik, Linux. Currently learning Go and
-building backend services.
+Backend and infrastructure engineer. I write Go services and run them —
+seven years of production infrastructure behind that: Linux, networking,
+virtualization, databases.
 
-Homelab on Proxmox and k3s — PostgreSQL, WireGuard, monitoring.
+Homelab on Proxmox and k3s: PostgreSQL, WireGuard, monitoring.
 My projects come from running it.
 
 ### Projects
@@ -18,3 +18,4 @@ availability checks with Telegram alerts.
 
 ### Contact
 
+d.kizenkov@outlook.com
