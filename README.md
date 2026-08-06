@@ -1,11 +1,6 @@
 ## Dmitrii Kizenkov
 
-Backend and infrastructure engineer. I write Go services and run them —
-seven years of production infrastructure behind that: Linux, networking,
-virtualization, databases.
-
 Homelab on Proxmox and k3s: PostgreSQL, WireGuard, monitoring.
-My projects come from running it.
 
 ### Projects
 
