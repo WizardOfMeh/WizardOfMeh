@@ -1,6 +1,9 @@
 ## Dmitrii Kizenkov
 
-Homelab on Proxmox and k3s: PostgreSQL, WireGuard, monitoring.
+Backend engineer. Go, PostgreSQL, Kubernetes.
+Seven years in production infrastructure: Linux, networking, virtualization.
+
+Homelab on Proxmox and k3s: PostgreSQL, monitoring.
 
 ### Projects
 
